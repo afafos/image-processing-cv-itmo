@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+task-1/images/
+task-1/yolo11n.pt
+
+task-2-1/image.jpg
+task-2-2/image.jpg
+
+task-2-3/image.jpg
+task-2-3/resized_rgb.jpg
